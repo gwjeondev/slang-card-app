@@ -1,6 +1,8 @@
 'use client'
 
-import { createContext, useContext, useEffect, useState } from 'react'
+import { createContext, useContext, useState, useEffect } from 'react'
+import type { ReactNode } from 'react'
+import { getDefaultLang } from '@/app/_lib/getDefaultLang'
 
 export type Lang = 'ko' | 'ja' | 'en' | 'zh' | 'hi' | 'fr' | 'de' | 'pt' | 'es'
 
@@ -12,26 +14,26 @@ const LangContext = createContext<{
   setLang: () => {},
 })
 
-export function LangProvider({ children }: { children: React.ReactNode }) {
+export function LangProvider({ children }: { children: ReactNode }) {
   const [lang, setLang] = useState<Lang>('ko')
 
   useEffect(() => {
-    const stored = localStorage.getItem('lang') as Lang | null
-    if (stored) setLang(stored)
+    const saved = localStorage.getItem('lang') as Lang
+    console.log('saved', saved)
+    console.log(getDefaultLang())
+    if (saved) setLang(saved)
+    else setLang(getDefaultLang())
   }, [])
 
-  const changeLang = (l: Lang) => {
-    setLang(l)
-    localStorage.setItem('lang', l)
-  }
+  useEffect(() => {
+    localStorage.setItem('lang', lang)
+  }, [lang])
 
   return (
-    <LangContext.Provider value={{ lang, setLang: changeLang }}>
+    <LangContext.Provider value={{ lang, setLang }}>
       {children}
     </LangContext.Provider>
   )
 }
 
-export function useLang() {
-  return useContext(LangContext)
-}
+export const useLang = () => useContext(LangContext)
