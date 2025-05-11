@@ -1,0 +1,122 @@
+[
+  {
+    "id": "001",
+    "expression": "Spill the tea",
+    "meaning": {
+      "en": "To share gossip or private information.",
+      "ko": "사적인 이야기나 소문을 공유하는 것.",
+      "ja": "プライベートな話や噂を共有すること。",
+      "zh": "分享八卦或私人信息。",
+      "hi": "गपशप या निजी जानकारी साझा करना।",
+      "fr": "Partager des potins ou des informations privées.",
+      "de": "Klatsch oder private Informationen teilen.",
+      "pt": "Compartilhar fofocas ou informações privadas.",
+      "es": "Compartir chismes o información privada."
+    },
+    "example": {
+      "en": "Come on, spill the tea! What happened at the party?",
+      "translation": {
+        "en": "",
+        "ko": "야, 말해봐! 파티에서 무슨 일이 있었어?",
+        "ja": "さあ、話してよ！パーティーで何があったの？",
+        "zh": "快说，说说八卦！聚会上发生了什么？",
+        "hi": "चलो, गपशप बताओ! पार्टी में क्या हुआ?",
+        "fr": "Allez, crache le morceau ! Que s'est-il passé à la fête ?",
+        "de": "Komm schon, erzähl den Tratsch! Was ist auf der Party passiert?",
+        "pt": "Vamos lá, conta o babado! O que aconteceu na festa?",
+        "es": "¡Vamos, suelta la sopa! ¿Qué pasó en la fiesta?"
+      }
+    },
+    "note": {
+      "en": "Popular in Gen Z and social media.",
+      "ko": "Z세대와 SNS에서 자주 사용됨.",
+      "ja": "Z世代やSNSでよく使われる。",
+      "zh": "在Z世代和社交媒体中很流行。",
+      "hi": "जेन जेड और सोशल मीडिया में लोकप्रिय।",
+      "fr": "Populaire chez la génération Z et sur les réseaux sociaux.",
+      "de": "Beliebt bei der Generation Z und in sozialen Medien.",
+      "pt": "Popular entre a Geração Z e nas redes sociais.",
+      "es": "Popular entre la Generación Z y en las redes sociales."
+    }
+  },
+  {
+    "id": "002",
+    "expression": "Ghosted",
+    "meaning": {
+      "en": "To suddenly stop communicating with someone.",
+      "ko": "상대방과의 연락을 갑자기 끊는 것.",
+      "ja": "突然連絡を絶つこと。",
+      "zh": "突然停止与某人联系。",
+      "hi": "किसी से अचानक संपर्क बंद करना।",
+      "fr": "Cesser soudainement de communiquer avec quelqu'un.",
+      "de": "Plötzlich den Kontakt zu jemandem abbrechen.",
+      "pt": "Parar de se comunicar com alguém de repente.",
+      "es": "Dejar de comunicarse con alguien de repente."
+    },
+    "example": {
+      "en": "She ghosted me after our first date.",
+      "translation": {
+        "en": "",
+        "ko": "첫 데이트 이후 그녀는 나를 '고스팅'했어.",
+        "ja": "初デートの後、彼女にゴーストされた。",
+        "zh": "第一次约会后，她就突然消失了。",
+        "hi": "पहली डेट के बाद उसने मुझसे संपर्क तोड़ दिया।",
+        "fr": "Elle m'a ghosté après notre premier rendez-vous.",
+        "de": "Sie hat mich nach unserem ersten Date geghostet.",
+        "pt": "Ela me deu um gelo depois do nosso primeiro encontro.",
+        "es": "Ella me ignoró después de nuestra primera cita."
+      }
+    },
+    "note": {
+      "en": "Common in dating apps and casual relationships.",
+      "ko": "데이트 앱이나 캐주얼한 관계에서 자주 쓰임.",
+      "ja": "マッチングアプリなどでよく使われる。",
+      "zh": "在约会应用和随意关系中很常见。",
+      "hi": "डेटिंग ऐप्स और आकस्मिक संबंधों में आम।",
+      "fr": "Courant sur les applications de rencontre et dans les relations occasionnelles.",
+      "de": "Häufig in Dating-Apps und lockeren Beziehungen.",
+      "pt": "Comum em aplicativos de namoro e relacionamentos casuais.",
+      "es": "Común en aplicaciones de citas y relaciones casuales."
+    }
+  },
+  {
+    "id": "003",
+    "expression": "Flex",
+    "meaning": {
+      "en": "To show off something proudly.",
+      "ko": "자랑스럽게 뽐내는 것.",
+      "ja": "誇らしげに見せびらかすこと。",
+      "zh": "自豪地炫耀某物。",
+      "hi": "किसी चीज़ को गर्व से दिखाना।",
+      "fr": "Montrer quelque chose fièrement.",
+      "de": "Etwas stolz zur Schau stellen.",
+      "pt": "Exibir algo com orgulho.",
+      "es": "Presumir de algo con orgullo."
+    },
+    "example": {
+      "en": "He flexed his new sneakers on Instagram.",
+      "translation": {
+        "en": "",
+        "ko": "그는 인스타그램에 새 신발을 자랑했어.",
+        "ja": "彼はインスタで新しいスニーカーを自慢した。",
+        "zh": "他在Instagram上炫耀他的新运动鞋。",
+        "hi": "उसने इंस्टाग्राम पर अपने नए स्नीकर्स का दिखावा किया।",
+        "fr": "Il a exhibé ses nouvelles baskets sur Instagram.",
+        "de": "Er hat seine neuen Turnschuhe auf Instagram präsentiert.",
+        "pt": "Ele exibiu seus novos tênis no Instagram.",
+        "es": "Mostró sus nuevas zapatillas en Instagram."
+      }
+    },
+    "note": {
+      "en": "Usually used ironically or sarcastically.",
+      "ko": "보통은 비꼬거나 장난스럽게 사용됨.",
+      "ja": "皮肉や冗談っぽく使われることが多い。",
+      "zh": "通常以讽刺或挖苦的方式使用。",
+      "hi": "आमतौर पर विडंबना या व्यंग्य में उपयोग किया जाता है।",
+      "fr": "Souvent utilisé de manière ironique ou sarcastique.",
+      "de": "Wird meist ironisch oder sarkastisch verwendet.",
+      "pt": "Geralmente usado de forma irônica ou sarcástica.",
+      "es": "Generalmente se usa de forma irónica o sarcástica."
+    }
+  }
+]
