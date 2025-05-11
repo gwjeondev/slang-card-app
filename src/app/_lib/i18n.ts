@@ -201,3 +201,15 @@ export const langNameByLang: Record<Lang, Record<Lang, string>> = {
     es: 'Español',
   },
 }
+
+export const langAllList: Record<string, string> = {
+  ko: '📚 전체 슬랭 보기',
+  ja: '📚 スラング一覧を見る',
+  en: '📚 View All Slang',
+  zh: '📚 查看所有俚语',
+  hi: '📚 सभी स्लैंग देखें',
+  fr: '📚 Voir tous les argots',
+  de: '📚 Alle Slangs anzeigen',
+  pt: '📚 Ver todos os gírias',
+  es: '📚 Ver todos los modismos',
+}
